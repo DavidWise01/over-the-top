@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "lincoln-hawk",
+    "name": "Lincoln 'Linc' Hawk",
+    "epithet": "The struggling trucker and arm-wrestler — driving cross-coun",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Sylvester Stallone",
+    "moniker": "⟦Lincoln 'Linc' Hawk:OTT:3d6c4c⟧"
+  },
+  {
+    "slug": "michael-hawk",
+    "name": "Michael 'Mike' Hawk",
+    "epithet": "Hawk's estranged son — a stiff military-academy boy who has ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "David Mendenhall",
+    "moniker": "⟦Michael 'Mike' Hawk:OTT:c7b621⟧"
+  },
+  {
+    "slug": "jason-cutler",
+    "name": "Jason Cutler",
+    "epithet": "The wealthy, controlling grandfather — Christina's father, w",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Robert Loggia",
+    "moniker": "⟦Jason Cutler:OTT:097a85⟧"
+  },
+  {
+    "slug": "christina-hawk",
+    "name": "Christina Hawk",
+    "epithet": "Mike's mother, Hawk's wife, Cutler's daughter — dying in hos",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Susan Blakely",
+    "moniker": "⟦Christina Hawk:OTT:438a2f⟧"
+  },
+  {
+    "slug": "bull-hurley",
+    "name": "Bob 'Bull' Hurley",
+    "epithet": "The reigning, mountainous arm-wrestling champion — the final",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Rick Zumwalt",
+    "moniker": "⟦Bob 'Bull' Hurley:OTT:78594e⟧"
+  },
+  {
+    "slug": "tim-salanger",
+    "name": "Tim Salanger",
+    "epithet": "Cutler's employee — the suited man sent to do the grandfathe",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Chris McCarty",
+    "moniker": "⟦Tim Salanger:OTT:128a11⟧"
+  },
+  {
+    "slug": "ruker",
+    "name": "Ruker",
+    "epithet": "An arm-wrestling competitor on the road to Vegas — one of th",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Terry Funk",
+    "moniker": "⟦Ruker:OTT:ca091e⟧"
+  },
+  {
+    "slug": "john-grizzly",
+    "name": "John Grizzly",
+    "epithet": "A competitor at the championship — a name on the bracket, a ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Bruce Way",
+    "moniker": "⟦John Grizzly:OTT:f84985⟧"
+  },
+  {
+    "slug": "carl-adams",
+    "name": "Carl Adams",
+    "epithet": "A competitor in the Vegas tournament — another arm across th",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Paul Sullivan",
+    "moniker": "⟦Carl Adams:OTT:5a9a9b⟧"
+  },
+  {
+    "slug": "smasher",
+    "name": "Smasher",
+    "epithet": "A competitor — the kind of handle the World Armwrestling Cha",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Greg 'Magic' Schwartz",
+    "moniker": "⟦Smasher:OTT:7dc94c⟧"
+  },
+  {
+    "slug": "collins",
+    "name": "Collins",
+    "epithet": "A competitor in the field at Vegas — the deep bracket Hawk c",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "Allan Graf",
+    "moniker": "⟦Collins:OTT:76bf4e⟧"
+  },
+  {
+    "slug": "the-cap-turn",
+    "name": "The Cap Turn",
+    "epithet": "Hawk flips his cap backward to 'switch on' — his psyching ri",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cap Turn:OTT:af6a9d⟧"
+  },
+  {
+    "slug": "the-rig",
+    "name": "The Rig",
+    "epithet": "Hawk's big-rig truck — his livelihood, his home, the road-mo",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Rig:OTT:1ada04⟧"
+  },
+  {
+    "slug": "the-vegas-championship",
+    "name": "The Las Vegas Championship",
+    "epithet": "The World Armwrestling Championship — the climactic tourname",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Las Vegas Championship:OTT:99a5aa⟧"
+  },
+  {
+    "slug": "the-prize-truck",
+    "name": "The Prize Truck",
+    "epithet": "The $250,000 custom Volvo rig — the grand prize, and the fut",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Prize Truck:OTT:bab9ae⟧"
+  },
+  {
+    "slug": "the-over-the-top",
+    "name": "The 'Over the Top' Technique",
+    "epithet": "The arm-wrestling move that names the film — rolling the opp",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The 'Over the Top' Technique:OTT:c15439⟧"
+  },
+  {
+    "slug": "the-soundtrack",
+    "name": "The Soundtrack",
+    "epithet": "The 80s engine: Kenny Loggins 'Meet Me Half Way,' Sammy Haga",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Soundtrack:OTT:a93f58⟧"
+  }
+]
