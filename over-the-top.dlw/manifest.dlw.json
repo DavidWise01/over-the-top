@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Turn the cap around and the man becomes the truck. An arm-wrestling movie that's really about a father reaching across a table for his son — over the top.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 513,
+    "prev": "a68e13c28c54bc06d3409b8976d2ef0d62897acd8bbdcbf990d243ff7a47f1ea",
+    "link": "cce10ebcecfc878ca969e9aabe6d751daa81d7b1c926206ea92fcdf999c89004",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
